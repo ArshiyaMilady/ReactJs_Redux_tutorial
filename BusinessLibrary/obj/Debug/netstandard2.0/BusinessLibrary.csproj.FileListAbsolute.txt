@@ -1,0 +1,12 @@
+E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\BusinessLibrary\bin\Debug\netstandard2.0\BusinessLibrary.deps.json
+E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\BusinessLibrary\bin\Debug\netstandard2.0\BusinessLibrary.dll
+E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\BusinessLibrary\bin\Debug\netstandard2.0\BusinessLibrary.pdb
+E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\BusinessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.dll
+E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\BusinessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.pdb
+E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\BusinessLibrary\obj\Debug\netstandard2.0\BusinessLibrary.csprojAssemblyReference.cache
+E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\BusinessLibrary\obj\Debug\netstandard2.0\BusinessLibrary.csproj.CoreCompileInputs.cache
+E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\BusinessLibrary\obj\Debug\netstandard2.0\BusinessLibrary.AssemblyInfoInputs.cache
+E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\BusinessLibrary\obj\Debug\netstandard2.0\BusinessLibrary.AssemblyInfo.cs
+E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\BusinessLibrary\obj\Debug\netstandard2.0\BusinessLibrary.csproj.CopyComplete
+E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\BusinessLibrary\obj\Debug\netstandard2.0\BusinessLibrary.dll
+E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\BusinessLibrary\obj\Debug\netstandard2.0\BusinessLibrary.pdb

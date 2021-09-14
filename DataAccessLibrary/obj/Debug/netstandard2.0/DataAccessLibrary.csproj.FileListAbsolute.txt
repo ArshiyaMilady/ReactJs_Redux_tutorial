@@ -1,0 +1,9 @@
+E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\DataAccessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.deps.json
+E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\DataAccessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.dll
+E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.csprojAssemblyReference.cache
+E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.AssemblyInfoInputs.cache
+E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.AssemblyInfo.cs
+E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\DataAccessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.pdb
+E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.dll
+E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.pdb
