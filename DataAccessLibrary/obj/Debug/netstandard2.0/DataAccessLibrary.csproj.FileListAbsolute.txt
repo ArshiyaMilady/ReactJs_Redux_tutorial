@@ -7,3 +7,12 @@ E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\DataAccessLibrary\obj\D
 E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\DataAccessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.pdb
 E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.dll
 E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.pdb
+D:\Desktop\BOX\Personal\ReatJs_Redux\Tutorial\DataAccessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.deps.json
+D:\Desktop\BOX\Personal\ReatJs_Redux\Tutorial\DataAccessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.dll
+D:\Desktop\BOX\Personal\ReatJs_Redux\Tutorial\DataAccessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.pdb
+D:\Desktop\BOX\Personal\ReatJs_Redux\Tutorial\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.csprojAssemblyReference.cache
+D:\Desktop\BOX\Personal\ReatJs_Redux\Tutorial\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+D:\Desktop\BOX\Personal\ReatJs_Redux\Tutorial\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.AssemblyInfoInputs.cache
+D:\Desktop\BOX\Personal\ReatJs_Redux\Tutorial\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.AssemblyInfo.cs
+D:\Desktop\BOX\Personal\ReatJs_Redux\Tutorial\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.dll
+D:\Desktop\BOX\Personal\ReatJs_Redux\Tutorial\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.pdb

@@ -1,2 +1,17 @@
 tutorial : 
 	https://www.codeproject.com/Articles/3132485/CRUD-Operation-using-ASP-NET-CORE-2-2-and-React-Re
+
+
+
+
+    //"start": "run-p start:dev start:api",
+    //"start:dev": "webpack-dev-server --config webpack.config.dev.js --port 3000",
+    //"prestart:api": "node tools/createMockDb.js",
+    //"start:api": "node tools/apiServer.js",
+
+
+
+npm run build
+npm install -g serve
+serve -s build
+

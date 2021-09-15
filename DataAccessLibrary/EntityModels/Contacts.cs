@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ReactJs_Redux_01.EntityModels
+namespace DataAccessLibrary.EntityModels
 {
     public partial class Contacts
     {

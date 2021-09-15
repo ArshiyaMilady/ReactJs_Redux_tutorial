@@ -10,3 +10,15 @@ E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\BusinessLibrary\obj\Deb
 E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\BusinessLibrary\obj\Debug\netstandard2.0\BusinessLibrary.csproj.CopyComplete
 E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\BusinessLibrary\obj\Debug\netstandard2.0\BusinessLibrary.dll
 E:\_PRG\Visual Studio\_Projects\ASP_Net\ReactJs_Redux_01\BusinessLibrary\obj\Debug\netstandard2.0\BusinessLibrary.pdb
+D:\Desktop\BOX\Personal\ReatJs_Redux\Tutorial\BusinessLibrary\obj\Debug\netstandard2.0\BusinessLibrary.csprojAssemblyReference.cache
+D:\Desktop\BOX\Personal\ReatJs_Redux\Tutorial\BusinessLibrary\obj\Debug\netstandard2.0\BusinessLibrary.csproj.CoreCompileInputs.cache
+D:\Desktop\BOX\Personal\ReatJs_Redux\Tutorial\BusinessLibrary\obj\Debug\netstandard2.0\BusinessLibrary.AssemblyInfoInputs.cache
+D:\Desktop\BOX\Personal\ReatJs_Redux\Tutorial\BusinessLibrary\obj\Debug\netstandard2.0\BusinessLibrary.AssemblyInfo.cs
+D:\Desktop\BOX\Personal\ReatJs_Redux\Tutorial\BusinessLibrary\obj\Debug\netstandard2.0\BusinessLibrary.dll
+D:\Desktop\BOX\Personal\ReatJs_Redux\Tutorial\BusinessLibrary\obj\Debug\netstandard2.0\BusinessLibrary.pdb
+D:\Desktop\BOX\Personal\ReatJs_Redux\Tutorial\BusinessLibrary\bin\Debug\netstandard2.0\BusinessLibrary.deps.json
+D:\Desktop\BOX\Personal\ReatJs_Redux\Tutorial\BusinessLibrary\bin\Debug\netstandard2.0\BusinessLibrary.dll
+D:\Desktop\BOX\Personal\ReatJs_Redux\Tutorial\BusinessLibrary\bin\Debug\netstandard2.0\BusinessLibrary.pdb
+D:\Desktop\BOX\Personal\ReatJs_Redux\Tutorial\BusinessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.dll
+D:\Desktop\BOX\Personal\ReatJs_Redux\Tutorial\BusinessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.pdb
+D:\Desktop\BOX\Personal\ReatJs_Redux\Tutorial\BusinessLibrary\obj\Debug\netstandard2.0\BusinessLibrary.csproj.CopyComplete

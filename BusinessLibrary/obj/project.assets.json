@@ -771,7 +771,7 @@
   },
   "libraries": {
     "Microsoft.EntityFrameworkCore/2.2.4": {
-      "sha512": "UgvhCfj2e0B1p83f4+juEhkvOP/8vRDZ3HEo2tkX9/wS6uWTPu2WBf5kudXI74ur0AJvHu5phLBIJ1Ob+kMXww==",
+      "sha512": "aQ0sAe2mOtSp3StjKT2wDA/BO3k8BLfpIXIG1MOlGytjQWQOvW3BzDPfgXOhxbSa7Bhdsx97aYzZUGD3DQAQjQ==",
       "type": "package",
       "path": "microsoft.entityframeworkcore/2.2.4",
       "files": [
@@ -784,7 +784,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Abstractions/2.2.4": {
-      "sha512": "4HzQsktwPyDJFUS7TMKP/5rR7DQzMNDfyKkTbOaV5I0K5eyG6+668kGQDU8BQVjAVqtBDFW9OTG2Nue+nVD2jg==",
+      "sha512": "GjtIOANlpy7JcGK0Q169n52713hIHHfxUHq1+xoWlAZYSI0h/n2DrEWwCIsrnInU8FaLq4cIG7UgMTL0CnUUPw==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.abstractions/2.2.4",
       "files": [
@@ -797,7 +797,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Analyzers/2.2.4": {
-      "sha512": "7rejM6oRqUqNrj1BK4ico0Fb6XMADNn6lqPgYGYg49vJqA0NWxbavLUkMPzcPR0AYznPbHFQPuNHqT6JfCM+kA==",
+      "sha512": "cLJo6dikdFQd2j9cFHhC2M1rzUeYvJLR/m7cBcuKRI6ek5t5ZyGZ0hzEJwCQmKRDV4tAl5p+NIrfDjfqTK8POw==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.analyzers/2.2.4",
       "files": [
@@ -809,7 +809,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational/2.2.4": {
-      "sha512": "h+M/sXgQSXlcyKLYH5x+Ah7vKE+6JIh2IUPQi9lbUka5rBYIX+B6yBt3uY5/occAbrACVGK/9tU9hy9V01KgBg==",
+      "sha512": "Ga+kJhoSBNYv8C2gQl2sB5bTBkWsLFn92CPjZA5ql/MyxJTWri6lf44/GSYEcOQj0tqF5HhMAaB1HxQMiIPBcQ==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.relational/2.2.4",
       "files": [
@@ -982,7 +982,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "a/iSwnRZb+LHFk49hQOyThh/ZNC3vsbZsF65XwQIb863qF6msmhdQtxGXFL28Ob2NsCz/drEj28BJd/YPpLRBg==",
+      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -997,12 +997,11 @@
       ]
     },
     "Microsoft.NETCore.Targets/1.0.1": {
-      "sha512": "btjnX5RaGGUQZv6e4xz2yCV6WXQ0D+TSYkOJA8SVmkefSlFaTROJ5tPTqzTwmjx7wgCaraLop/aXtmVagtO/yQ==",
+      "sha512": "rkn+fKobF/cbWfnnfBOQHKVKIOpxMZBvlSHkqDWgBpwGDcLRduvs3D9OLGeV6GWGvVwNlVi2CBbTjuPmtHvyNw==",
       "type": "package",
       "path": "microsoft.netcore.targets/1.0.1",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -1699,7 +1698,7 @@
       ]
     },
     "System.Interactive.Async/3.2.0": {
-      "sha512": "C07p0dAA5lGqYUPiPCK3paR709gqS4aMDDsje0v0pvffwzLaxmsn5YQTfZbyNG5qrudPx+BCxTqISnncQ3wIoQ==",
+      "sha512": "T3nigy9yShklMyVu7I2TvlVMRy2vUn9oQeBaRy0KZcOptyy+rUbekYaXxoa3s0h2tWT3UVtzrGkQC89CBbCtlg==",
       "type": "package",
       "path": "system.interactive.async/3.2.0",
       "files": [
@@ -3090,25 +3089,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\R856\\.nuget\\packages\\": {},
+    "C:\\Users\\mehdi.rahimi\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\_PRG\\Visual Studio\\_Projects\\ASP_Net\\ReactJs_Redux_01\\BusinessLibrary\\BusinessLibrary.csproj",
+      "projectUniqueName": "D:\\Desktop\\BOX\\Personal\\ReatJs_Redux\\Tutorial\\BusinessLibrary\\BusinessLibrary.csproj",
       "projectName": "BusinessLibrary",
-      "projectPath": "E:\\_PRG\\Visual Studio\\_Projects\\ASP_Net\\ReactJs_Redux_01\\BusinessLibrary\\BusinessLibrary.csproj",
-      "packagesPath": "C:\\Users\\R856\\.nuget\\packages\\",
-      "outputPath": "E:\\_PRG\\Visual Studio\\_Projects\\ASP_Net\\ReactJs_Redux_01\\BusinessLibrary\\obj\\",
+      "projectPath": "D:\\Desktop\\BOX\\Personal\\ReatJs_Redux\\Tutorial\\BusinessLibrary\\BusinessLibrary.csproj",
+      "packagesPath": "C:\\Users\\mehdi.rahimi\\.nuget\\packages\\",
+      "outputPath": "D:\\Desktop\\BOX\\Personal\\ReatJs_Redux\\Tutorial\\BusinessLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\R856\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mehdi.rahimi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -3122,8 +3121,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "E:\\_PRG\\Visual Studio\\_Projects\\ASP_Net\\ReactJs_Redux_01\\DataAccessLibrary\\DataAccessLibrary.csproj": {
-              "projectPath": "E:\\_PRG\\Visual Studio\\_Projects\\ASP_Net\\ReactJs_Redux_01\\DataAccessLibrary\\DataAccessLibrary.csproj"
+            "D:\\Desktop\\BOX\\Personal\\ReatJs_Redux\\Tutorial\\DataAccessLibrary\\DataAccessLibrary.csproj": {
+              "projectPath": "D:\\Desktop\\BOX\\Personal\\ReatJs_Redux\\Tutorial\\DataAccessLibrary\\DataAccessLibrary.csproj"
             }
           }
         }

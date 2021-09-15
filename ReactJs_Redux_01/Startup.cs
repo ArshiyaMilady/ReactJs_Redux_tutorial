@@ -19,6 +19,7 @@ namespace ReactJs_Redux_01
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddTransient<BusinessLibrary.Service.IContactService, BusinessLibrary.Service.ContactService>();
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
             // In production, the React files will be served from this directory
@@ -52,11 +53,13 @@ namespace ReactJs_Redux_01
 
             app.UseSpa(spa =>
             {
+                //spa.Options.SourcePath = env.ContentRootPath + "\\..\\" + "ClientApp";
                 spa.Options.SourcePath = "ClientApp";
 
                 if (env.IsDevelopment())
                 {
                     spa.UseReactDevelopmentServer(npmScript: "start");
+                    //spa.UseProxyToSpaDevelopmentServer("http://localhost:3000");
                 }
             });
         }
